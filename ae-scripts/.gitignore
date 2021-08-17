@@ -1,0 +1,7 @@
+*.out
+*.ko
+res/
+mod/
+fig10/fig10b/
+fig10/fig10d/
+fig2/fig2d
